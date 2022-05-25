@@ -40,7 +40,7 @@
 
 ### 구축 시스템
 <p align="center">
-<img width="80%" src="https://user-images.githubusercontent.com/56211221/170040492-f35dda6f-3add-4ba3-9cb9-0b7c0417e61c.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/56211221/170201412-72036198-3b65-4aca-a4ad-06a91acdf220.png"/>
 </p>
 
 <br>
