@@ -8,12 +8,12 @@
 ---
 > ### 정상 시나리오
 <p align="center">
-<img width="80%" src="https://user-images.githubusercontent.com/56211221/170048541-f8d6fe58-5b81-4c67-b960-5bc886855348.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/56211221/170048541-f8d6fe58-5b81-4c67-b960-5bc886855348.gif"/>
 </p>
 
 > ### 위치 보정 시나리오
 <p align="center">
-<img width="80%" src="https://user-images.githubusercontent.com/56211221/170048761-c117920f-62d4-4c8e-ab1a-41d68a758e5a.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/56211221/170048761-c117920f-62d4-4c8e-ab1a-41d68a758e5a.gif"/>
 </p>
 
 **Full presentation video on [YouTube](https://youtu.be/LFAATxp6J5M)**
